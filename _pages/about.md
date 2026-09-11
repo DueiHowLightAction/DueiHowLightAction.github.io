@@ -17,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+# Ching-En Kung
+
 I am a researcher working at the intersection of **scientific machine learning,
 computational geoscience, and AI for physical systems**.
 
