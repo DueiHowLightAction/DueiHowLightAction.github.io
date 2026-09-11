@@ -16,19 +16,16 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+I am a researcher working at the intersection of **scientific machine learning,
+computational geoscience, and AI for physical systems**.
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+My current research focuses on neural operators for physical simulation,
+particularly surrogate modeling for geological CO₂ storage. I work on models
+such as Fourier Neural Operators, Geometry-Informed Neural Operators, and
+U-shaped neural operators for predicting multiphase flow and pressure evolution.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I also develop automated multiphysics workflows connecting subsurface flow
+simulation with geomechanical modeling, including TOUGH–FLAC coupling.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to develop **physics-aware world models and autonomous
+scientific systems** for science and engineering.
