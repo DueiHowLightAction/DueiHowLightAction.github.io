@@ -24,8 +24,9 @@ I am a PhD student in National Taiwan University. My research interests
 include Machine Learning, coupled simulations, carbon capture and storage.
 
 My current research focuses on neural operators for physical simulation,
-particularly surrogate modeling for geological CO₂ storage. I also develop 
-automated multiphysics workflows connecting subsurface flow
+particularly surrogate modeling for geological CO₂ storage. 
+
+I also develop automated multiphysics workflows connecting subsurface flow
 simulation with geomechanical modeling, including TOUGH–FLAC coupling.
 
 My long-term goal is to develop **physics-aware world models and autonomous
