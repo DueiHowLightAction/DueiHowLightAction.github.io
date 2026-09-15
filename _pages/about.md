@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in National Taiwan University. My research interests 
+I am a PhD student at National Taiwan University. My research interests 
 include machine learning, coupled multiphysics simulations, and carbon capture and storage.
 
 My current research focuses on using deep learning to accelerating numerical simulations,
